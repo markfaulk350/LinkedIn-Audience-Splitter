@@ -1,0 +1,24 @@
+{
+  "name": "LinkedIn-Audience-Splitter",
+  "version": "1.0.0",
+  "description": "The goal is to utilize the LinkedIn API to split campaigns into SAG’s (Single Audience Group) by Facet / Entity type.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markfaulk350/LinkedIn-Audience-Splitter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markfaulk350/LinkedIn-Audience-Splitter/issues"
+  },
+  "homepage": "https://github.com/markfaulk350/LinkedIn-Audience-Splitter#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "chalk": "^4.1.0"
+  }
+}
